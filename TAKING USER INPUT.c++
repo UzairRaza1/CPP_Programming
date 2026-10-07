@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout<<"WELCOME TO THE COMUNITY OF CODE WITH UZAIR"<<endl;
+    cout<<"LET'S CODE WITH UZAIR"<<endl;
 
    //Taking User input
     
