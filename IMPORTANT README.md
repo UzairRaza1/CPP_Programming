@@ -4,9 +4,9 @@ In this I  will learn and teach you from all the C++ Programming journey.
 I will also my projects made with the help of C++
 
 IN THIS I HAVE SOLVE ALL WITH EXAMPLES. USING THIS ROAD MAP GIVEN BELOW YOU WILL BE ABLE TO LEARN EASILY:
-1. **INTEGERS**                (You will to learn about the integers)
+1. **INTEGERS**                 (You will to learn about the integers)
 2. **CAMMEL CASE NOTATION**     (You will learn about cammel case notation)
 3. **STINGS**                   (You will know about strings)
 4. **TAKING USER INPUT**        (You will learn how to take input from user)
 5. **NESTED IF**                (You will learn how to make grade sheet)
-6. 
+6. **SWITCH**                   (You will learn how to know about days of week  by numeric characters) 
